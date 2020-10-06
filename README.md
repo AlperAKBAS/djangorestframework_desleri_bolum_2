@@ -1,6 +1,7 @@
 # Django RestFramework Dersleri - 2. Sezon
 > BU DİZİN YOUTUBE DERSLERİ İÇİN YARATILMIŞTIR.  
 > İLK SEZON VİDEO TUTORIAL SERİSİ İÇİN LİNK:    [Django RestFramework Dersleri - Bölüm 1 - YouTube](https://www.youtube.com/playlist?list=PLtf2C1UGjgPBgBLXvS61dDYJodJ4qhBRi)  
+> BU SEZON  VİDEO TUTORIAL SERİSİ İÇİN LİNK:  [Django RestFramework Dersleri - Bölüm 2 - YouTube](https://www.youtube.com/playlist?list=PLtf2C1UGjgPB1rg4lggEu0qET8jy9FduQ)  
 
 
 ## Açıklama:
@@ -951,9 +952,4 @@ REST_FRAMEWORK = {
 ```
 
 
-Üçüncü sezonda buluşmak dileğiyle
-
-
-
-
-“# djangorestframework_desleri_bolum_1”
+# djangorestframework_desleri_bolum_2
