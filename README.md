@@ -956,3 +956,4 @@ REST_FRAMEWORK = {
 
 
 
+“# djangorestframework_desleri_bolum_1”

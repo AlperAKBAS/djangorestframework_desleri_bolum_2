@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/usr/local/Cellar/python@3.8/3.8.5/Frameworks/Python.framework/Versions/3.8/bin/python3.8",
+    "python.autoComplete.extraPaths": [
+        "/Users/alperakbas/dev/Trainings/Django/DRF_SABA/DRF_VIDEO_BLOG/DERSLER/02_DRF_sezon_2/senv/lib/python3.8/site-packages",
+      ]
+}
